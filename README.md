@@ -1,4 +1,4 @@
-# How To Install WordPress On A Server
+# Como instalar WordPress en un servidor
 
 ## Issues:
 
