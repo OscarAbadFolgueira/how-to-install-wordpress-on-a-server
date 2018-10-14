@@ -34,11 +34,11 @@ Estarás bien equipado para afrontar esta lección si:
 *   Do you know how to use (S)FTP software?
 *   Do you know what a database is?
 
-## Teacher Notes
+## Notas del profesor/a
 
 *   You will want to have a hosting account for the demo
 *   Make sure that you test the ability to connect to the hosting account at the venue where you are teaching. Some schools and networks block (S)FTP connections, and you will need to request the ability to use (S)FTP connections (port 21 for FTP, port 22 for SFTP).
-*   Sometimes it can take a while to complete the upload of WordPress. You may want to have the WordPress files already uploaded to the server before you start. You would then show how to connect with FTP to the server, show what the files look like once they're uploaded and then proceed to the database setup and installation script.
+*   A veces la subida de WordPress tarda un poco. Puede que quieras tener los ficheros de WordPress subidos al servidor antes de comenzar. You would then show how to connect with FTP to the server, show what the files look like once they're uploaded and then proceed to the database setup and installation script.
 
 ## Hands-on Walkthrough
 
