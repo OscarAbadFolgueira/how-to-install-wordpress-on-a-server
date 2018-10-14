@@ -1,30 +1,25 @@
 # Como instalar WordPress en un servidor
 
-## Issues:
+## Descripción
 
-*   PC images should be replaced with macOS equivalents
-*   Database permissions need to be reworked to include only the ones that are **needed**
+En esta lección aprenderás cómo tener WordPress en funcionamiento on-line. Esta lección te enseñará las herramientas así como los pasos necesarios para instalar WordPress en un servidor.
 
-## Description
+## Objetivos
 
-In this lesson you will learn how to get WordPress up and running on-line. This lesson will walk you through the tools, as well as the steps needed to setup WordPress on a live server.  
+Al completar la lección serás capaz de::
 
-## Objectives
+*   Descargar y extraer los ficheros de instalación de WordPress.
+*   Contactarte a tu servidor mediante (S)FTP.
+*   Instalar WordPress.
+*   Configurar una base de datos para.
+*   Script de intalación.
+*   Anticiparte y corregir cualquier posible problema.
 
-After completing this lesson, you will be able to:
+## Conocimientos necesarios
 
-*   Download and extract the WordPress installation files
-*   Connect your server with (S)FTP.
-*   Install WordPress.
-*   Set up a database for WordPress.
-*   Install script.
-*   Anticipate and correct any possible problems.
+Estarás bien equipado para afrontar esta lección si:
 
-## Prerequisite Skills
-
-You will be better equipped to work through this lesson if you:
-
-*   Have purchased a domain name and hosting account
+*   Has comprado un nombre de dominio y una cuenta de hosting.
 
 ## Assets
 
