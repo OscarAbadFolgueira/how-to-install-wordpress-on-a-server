@@ -23,9 +23,9 @@ Estarás bien equipado para afrontar esta lección si:
 
 ## Assets
 
-*   [WordPress](https://wordpress.org/download/) Source Files
-*   [Cyberduck](https://cyberduck.io/) FTP Client
-*   An archive utility (e.g. [7-Zip](http://www.7-zip.org/))
+*   [WordPress](https://es.wordpress.org/download/) Ficheros fuente
+*   [Cyberduck](https://cyberduck.io/) Cliente de FTP
+*   Herramienta de descompresión de archivos (ej. [7-Zip](http://www.7-zip.org/))
 
 ## Screening Questions
 
@@ -36,8 +36,8 @@ Estarás bien equipado para afrontar esta lección si:
 
 ## Notas del profesor/a
 
-*   You will want to have a hosting account for the demo
-*   Make sure that you test the ability to connect to the hosting account at the venue where you are teaching. Some schools and networks block (S)FTP connections, and you will need to request the ability to use (S)FTP connections (port 21 for FTP, port 22 for SFTP).
+*   Querrás tener una cuenta de hosting para la demo.
+*   Asegúrate de que has probado la conexión a tu cuenta de hosting en el lugar donde impartas la formación. Algunos colegios y redes bloquean las conexiones (S)FTP, y tendrás que solicitar que te habiliten para usar las conexiones (S)FTP, (puerto 21 para FTP, puerto 22 para SFTP).
 *   A veces la subida de WordPress tarda un poco. Puede que quieras tener los ficheros de WordPress subidos al servidor antes de comenzar. You would then show how to connect with FTP to the server, show what the files look like once they're uploaded and then proceed to the database setup and installation script.
 
 ## Hands-on Walkthrough
